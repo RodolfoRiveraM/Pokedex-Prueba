@@ -1,0 +1,41 @@
+﻿@model Pokemon2.Models.PagedPokemonViewModel
+
+<h4 class="mb-3">Listado de Pokémons</h4>
+
+<table class="table table-sm table-hover table-striped align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col"><small>Imagen</small></th>
+            <th scope="col"><small>Nombre</small></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model.Pokemons)
+        {
+            <tr>
+                <td><img src="@p.ImageUrl" alt="@p.Name" width="70" class="rounded" /></td>
+                <td><span class="fw-semibold">@p.Name</span></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Paginación con Bootstrap -->
+<nav>
+    <ul class="pagination justify-content-center">
+        <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+            <a class="page-link" href="@Url.Action("Index", new { page = Model.CurrentPage - 1 })">Anterior</a>
+        </li>
+
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+            </li>
+        }
+
+        <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+            <a class="page-link" href="@Url.Action("Index", new { page = Model.CurrentPage + 1 })">Siguiente</a>
+        </li>
+    </ul>
+</nav>
