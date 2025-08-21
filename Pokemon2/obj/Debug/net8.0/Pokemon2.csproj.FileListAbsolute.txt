@@ -32,3 +32,68 @@ C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\obj\Debug\net8.0\refint\
 C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\obj\Debug\net8.0\Pokemon2.pdb
 C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\obj\Debug\net8.0\Pokemon2.genruntimeconfig.cache
 C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\obj\Debug\net8.0\ref\Pokemon2.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\RBush.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\obj\Debug\net8.0\Pokemon2.csproj.AssemblyReference.cache
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\obj\Debug\net8.0\Pokemon2.csproj.Up2Date
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\MailKit.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\MimeKit.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rodol\Desktop\.net\DoctorApp\Pokemon2\Pokemon2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\appsettings.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\Pokemon2.staticwebassets.endpoints.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\Pokemon2.staticwebassets.runtime.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\Pokemon2.exe
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\Pokemon2.deps.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\Pokemon2.runtimeconfig.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\Pokemon2.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\Pokemon2.pdb
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\MailKit.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\MimeKit.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\RBush.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.csproj.AssemblyReference.cache
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.AssemblyInfoInputs.cache
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.AssemblyInfo.cs
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.csproj.CoreCompileInputs.cache
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.RazorAssemblyInfo.cache
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.RazorAssemblyInfo.cs
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.sourcelink.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\scopedcss\bundle\Pokemon2.styles.css
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\scopedcss\projectbundle\Pokemon2.bundle.scp.css
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets\msbuild.Pokemon2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets\msbuild.Pokemon2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets\msbuild.build.Pokemon2.props
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pokemon2.props
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Pokemon2.props
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.csproj.Up2Date
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\refint\Pokemon2.dll
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.pdb
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\Pokemon2.genruntimeconfig.cache
+C:\Users\rodol\Desktop\Git Oficial\Pokedex-Prueba\Pokemon2\obj\Debug\net8.0\ref\Pokemon2.dll

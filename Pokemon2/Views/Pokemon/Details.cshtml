@@ -1,0 +1,77 @@
+﻿@model Pokemon2.Models.PokemonDetail
+
+@{
+    ViewData["Title"] = $"Detalle de {Model.Name}";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header text-center bg-primary text-white">
+            <h2>#@Model.Id @Model.Name</h2>
+        </div>
+        <div class="card-body">
+            <div class="row">
+
+                <div class="col-md-4 text-center">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/@(Model.Id).png"
+                         class="img-fluid mb-3"
+                         alt="@Model.Name"
+                         style="width: 250px; height: 250px;" />
+
+                </div>
+
+                <!-- Datos -->
+                <div class="col-md-8">
+                    <table class="table table-bordered">
+                        <tbody>
+                            <tr>
+                                <th>Color</th>
+                                <td>@Model.Color</td>
+                            </tr>
+                            <tr>
+                                <th>Hábitat</th>
+                                <td>@Model.Habitat</td>
+                            </tr>
+                            <tr>
+                                <th>Generación</th>
+                                <td>@Model.Generation</td>
+                            </tr>
+                            <tr>
+                                <th>Grupo Huevo</th>
+                                <td>
+                                    @foreach (var egg in Model.EggGroups)
+                                    {
+                                        <span class="badge bg-success me-1">@egg</span>
+                                    }
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Descargar en excel -->
+                <div class="col-md-2">
+                    <a href="@Url.Action("ExportExcel", "Home", new { search = Model.Name, species = Model.Name })" class="btn btn-success w-100">Descargar Excel</a>
+                </div>
+
+                <!-- Formulario de envío de correo -->
+                <form asp-action="SendPokemonEmail" method="post" class="row g-3 mb-4">
+                    <div class="col-md-8">
+                        <input type="hidden" name="id" value="@Model.Id" />
+                        <input type="email" name="email" placeholder="Correo de prueba" class="form-control" required />
+                        <input type="hidden" name="search" value="@Model.Name" />
+                        <input type="hidden" name="habitat" value="@Model.Habitat" />
+                    </div>
+                    <div class="col-md-4">
+                        <button type="submit" class="btn btn-primary w-100">Enviar correo con Pokémon filtrados</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Botón para regresar -->
+        <div class="card-footer text-center">
+            <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Volver</a>
+        </div>
+    </div>
+</div>

@@ -7,5 +7,8 @@ namespace Pokemon2.Services
     public interface IPokeService
     {
         Task<List<PokemonListItem>> GetPokemonsAsync();
+        Task<PokemonDetail?> GetPokemonDetailAsync(int id);
+        Task<List<EspeciesListItem>> GetAllSpeciesAsync();
+
     }
 }

@@ -1,41 +1,119 @@
 ﻿@model Pokemon2.Models.PagedPokemonViewModel
 
-<h4 class="mb-3">Listado de Pokémons</h4>
+<div class="container mt-4">
+    <h2 class="mb-4 text-center">Listado de Pokémon</h2>
 
-<table class="table table-sm table-hover table-striped align-middle">
-    <thead class="table-dark">
-        <tr>
-            <th scope="col"><small>Imagen</small></th>
-            <th scope="col"><small>Nombre</small></th>
-        </tr>
-    </thead>
-    <tbody>
+    <!-- Filtros -->
+    <form method="get" class="row g-3 mb-4 align-items-end">
+        <div class="col-md-4">
+            <label class="form-label">Buscar por nombre</label>
+            <input type="text" name="search" value="@Model.Search" class="form-control" placeholder="Ej. Leafeon" />
+        </div>
+
+        <div class="col-md-4">
+            <label class="form-label">Especie</label>
+            <select name="species" class="form-select">
+                <option value="">-- Todas las especies --</option>
+                @if (ViewData["AllSpecies"] is IEnumerable<dynamic> speciesList)
+                {
+                    foreach (var s in speciesList)
+                    {
+                        var name = s?.Name?.ToString() ?? "";
+                        if (!string.IsNullOrEmpty(name))
+                        {
+                            if (name == Model.Species)
+                            {
+                                <option value="@name" selected>@name</option>
+                            }
+                            else
+                            {
+                                <option value="@name">@name</option>
+                            }
+                        }
+                    }
+                }
+            </select>
+        </div>
+
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-primary w-100">Filtrar</button>
+        </div>
+    </form>
+
+    <!-- Excel -->
+    <div class="row g-3 mb-4 align-items-end">
+        <div class="col-md-2">
+            <a href="@Url.Action("ExportExcel", "Home", new { search = Model.Search, species = Model.Species })" class="btn btn-success w-100">Descargar Excel</a>
+        </div>
+    </div>
+
+    <!-- Formulario de envío de correo -->
+    <form asp-action="SendPokemonEmail" method="post" class="row g-3 mb-4">
+        <div class="col-md-8">
+            <input type="email" name="email" placeholder="Correo de prueba" class="form-control" required />
+            <input type="hidden" name="search" value="@Model.Search" />
+            <input type="hidden" name="species" value="@Model.Species" />
+        </div>
+        <div class="col-md-4">
+            <button type="submit" class="btn btn-primary w-100">Enviar correo con Pokémon filtrados</button>
+        </div>
+    </form>
+
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success">@TempData["Message"]</div>
+    }
+
+    <!-- Grid de Pokémon -->
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
         @foreach (var p in Model.Pokemons)
         {
-            <tr>
-                <td><img src="@p.ImageUrl" alt="@p.Name" width="70" class="rounded" /></td>
-                <td><span class="fw-semibold">@p.Name</span></td>
-            </tr>
+            <div class="col">
+                <div class="card h-100 shadow-sm pokedex-card">
+                    <div class="pokedex-header">
+                        <h5 class="m-0 text-uppercase">@p.Name</h5>
+                    </div>
+                    <div class="pokedex-body text-center p-3">
+                        <img src="@p.ImageUrl" alt="@p.Name"
+                             class="img-fluid mb-3"
+                             style="object-fit: contain; height: 150px;" />
+                        <a href="@Url.Action("Details", "Pokemon", new { id = p.Id })"
+                           class="btn btn-pokedex btn-sm">Ver Detalle</a>
+                    </div>
+                </div>
+            </div>
         }
-    </tbody>
-</table>
+    </div>
 
-<!-- Paginación con Bootstrap -->
-<nav>
-    <ul class="pagination justify-content-center">
-        <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
-            <a class="page-link" href="@Url.Action("Index", new { page = Model.CurrentPage - 1 })">Anterior</a>
-        </li>
 
-        @for (int i = 1; i <= Model.TotalPages; i++)
-        {
-            <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
-                <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+    <!-- Paginación -->
+    <nav class="mt-4">
+        <ul class="pagination justify-content-center">
+            <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = Model.CurrentPage - 1, search = Model.Search, species = Model.Species })">Anterior</a>
             </li>
-        }
 
-        <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
-            <a class="page-link" href="@Url.Action("Index", new { page = Model.CurrentPage + 1 })">Siguiente</a>
-        </li>
-    </ul>
-</nav>
+            @{
+                int maxPagesToShow = 10;
+                int startPage = Math.Max(1, Model.CurrentPage - 2);
+                int endPage = Math.Min(Model.TotalPages, startPage + maxPagesToShow - 1);
+
+                if (endPage - startPage + 1 < maxPagesToShow)
+                {
+                    startPage = Math.Max(1, endPage - maxPagesToShow + 1);
+                }
+            }
+
+            @for (int i = startPage; i <= endPage; i++)
+            {
+                <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                    <a class="page-link" href="@Url.Action("Index", new { page = i, search = Model.Search, species = Model.Species })">@i</a>
+                </li>
+            }
+
+            <li class="page-item @(Model.CurrentPage == Model.TotalPages ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = Model.CurrentPage + 1, search = Model.Search, species = Model.Species })">Siguiente</a>
+            </li>
+        </ul>
+    </nav>
+</div>

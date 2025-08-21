@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\",
+  "WorkspaceRootPath": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\models\\pagedpokemonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\models\\pagedpokemonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\models\\pagedpokemonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\models\\pokemonlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\models\\pokemonlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\models\\pokemonlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\services\\pokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\services\\pokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\services\\pokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\services\\ipokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\services\\ipokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\services\\ipokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\models\\pokemonlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\models\\pokemonlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\models\\pokemonlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\.net\\doctorapp\\pokemon2\\pokemon2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|c:\\users\\rodol\\desktop\\git oficial\\pokedex-prueba\\pokemon2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F1B254-15E7-4D59-A07C-7F027379F009}|Pokemon2\\Pokemon2.csproj|solutionrelative:pokemon2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,89 +64,83 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pokemon2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pokemon2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T02:38:26.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T02:38:26.852Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pokemon2\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Pokemon2\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T02:38:20.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T02:38:20.246Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pokemon2\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Pokemon2\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T02:38:18.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T02:38:18.064Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "PagedPokemonViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\PagedPokemonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\PagedPokemonViewModel.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Models\\PagedPokemonViewModel.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\PagedPokemonViewModel.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\PagedPokemonViewModel.cs",
               "RelativeToolTip": "Pokemon2\\Models\\PagedPokemonViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T02:27:59.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T02:27:59.269Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "PokemonListResponse.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\PokemonListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\PokemonListResponse.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Models\\PokemonListResponse.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\PokemonListResponse.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\PokemonListResponse.cs",
               "RelativeToolTip": "Pokemon2\\Models\\PokemonListResponse.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T02:19:50.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T02:19:50.838Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IPokeService.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Services\\IPokeService.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Services\\IPokeService.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Services\\IPokeService.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Services\\IPokeService.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Services\\IPokeService.cs",
               "RelativeToolTip": "Pokemon2\\Services\\IPokeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T01:32:15.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T01:32:15.586Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Pokemon2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Pokemon2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-21T01:31:30.561Z",
               "EditorCaption": ""
@@ -155,66 +149,61 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Pokemon2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T01:31:08.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T01:31:08.662Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Program.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Program.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Program.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Program.cs",
               "RelativeToolTip": "Pokemon2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T01:30:50.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T01:30:50.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "PokemonListItem.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\PokemonListItem.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\PokemonListItem.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Models\\PokemonListItem.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\PokemonListItem.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\PokemonListItem.cs",
               "RelativeToolTip": "Pokemon2\\Models\\PokemonListItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T01:30:38.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T01:30:38.351Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "PokeService.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Services\\PokeService.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Services\\PokeService.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Services\\PokeService.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Services\\PokeService.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Services\\PokeService.cs",
               "RelativeToolTip": "Pokemon2\\Services\\PokeService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T01:27:46.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T01:27:46.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Pokemon2\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\rodol\\Desktop\\.net\\DoctorApp\\Pokemon2\\Pokemon2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rodol\\Desktop\\Git Oficial\\Pokedex-Prueba\\Pokemon2\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Pokemon2\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T01:46:52.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T01:46:52.902Z"
             }
           ]
         }
